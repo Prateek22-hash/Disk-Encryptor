@@ -14,8 +14,6 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/INTRUDER1/Full-Disk-Encryption-Software cd disk-encryptor
-
 2nd method
 
 Once you clone the file in from the repository.
